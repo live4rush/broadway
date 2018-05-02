@@ -28,13 +28,13 @@ p {
   font-size: 14px;
 }
 
-.footer {
+#footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
 }
 
-h3.design {
+.design {
   font-size: 23px;
   font-weight: bold;
   color: white;
