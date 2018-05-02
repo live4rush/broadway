@@ -28,10 +28,14 @@ p {
   font-size: 14px;
 }
 
-#footer {
+.footer {
+  background-color: dimgray;
+  text-align : left;
+}
+
+#footer1 {
   font-size: 11px;
   color: white;
-  background-color: dimgray;
 }
 
 #design {
