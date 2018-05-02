@@ -1,6 +1,7 @@
 body {
   text-align: center;
   font-family: Helvetica;
+  font-weight: bold;
 }
 
 h1 {
@@ -33,10 +34,6 @@ p {
   text-align : left;
 }
 
-#footer1 {
-  font-size: 11px;
-  color: white;
-}
 
 #design {
   font-size: 23px;
